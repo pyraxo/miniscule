@@ -8,7 +8,6 @@ const storeScroll = () => {
         header.classList.add('shadow');
         if (header.id) {
             header.classList.remove('fat');
-            console.log('fatty bom bom')
         }
     }
     else {
